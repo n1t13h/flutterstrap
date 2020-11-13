@@ -1,14 +1,43 @@
-# flutterstrap
 
-A new Flutter package project.
+## FlutterStrap
 
-## Getting Started
+> UI Framework for Flutter
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+Inspired by CSS frameworks like Bootstrap, Semantic UI , Tailwind.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+**RELEASE STATUS - Alpha/Under Development**
+*DOCS : https://flutterstrap.nitishpatel.live*
+
+<hr>
+
+## What's is Ready As of Now? // TODO:
+
+ - [x] Buttons
+ - [ ] Cards
+ - [ ] Colors
+ - [ ] Input Fields
+ - [ ] Alerts
+ - [ ] Modals
+ - [ ]  Gradient Widgets
+
+
+> Still Planning on What all things to be added 
+
+<hr>
+
+## **Widgets**
+
+*BUTTONS*
+
+   
+
+    ButtonPrimary(
+    	text:  Text(
+    	"Primary",
+    	style:  TextStyle(color:  Colors.white),
+    	),
+    	onPressed: () {},
+    ),
+
+For Detailed Instructions on using of Buttons Refer [Docs](https://flutterstrap.nitishpatel.live/)
+![enter image description here](https://i.ibb.co/2g1JTmG/buttons.jpg)
